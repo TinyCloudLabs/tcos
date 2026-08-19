@@ -1,21 +1,25 @@
-# TinyCloud Open Source
+# TinyCloud Open Source License
 
-TinyCloud releases software under the [Apache License 2.0](LICENSE) because
-sovereignty requires the freedom to inspect, use, modify, and share the systems
-on which people depend.
+## Sovereignty enables powerful technology to serve the intentions of the people using it.
 
-> Sovereignty enables powerful technology to serve the intentions of the people
-> using it.
+The **TinyCloud Open Source License (TCOSL)** is TinyCloud's open-source
+licensing policy: the unmodified [Apache License 2.0](LICENSE), accompanied by
+the [TinyCloud Sovereignty Commitment](SOVEREIGNTY.md). Sovereignty requires the
+freedom to inspect, use, modify, and share the systems on which people depend.
 
 We ask everyone using TinyCloud software to read and uphold the
 [TinyCloud Sovereignty Commitment](SOVEREIGNTY.md). The commitment is a moral
 and community standard. It does not modify or condition the rights granted by
 Apache-2.0.
 
+“TinyCloud Open Source License” names this policy and commitment. The operative
+software license is Apache-2.0; TCOSL is not a modified or additional legal
+license.
+
 ## Repository contents
 
 - [`LICENSE`](LICENSE) — the unmodified Apache License 2.0
-- [`NOTICE`](NOTICE) — TinyCloud attribution and charter notice
+- [`NOTICE`](NOTICE) — TinyCloud Open Source License attribution and charter notice
 - [`SOVEREIGNTY.md`](SOVEREIGNTY.md) — the TinyCloud Sovereignty Commitment
 
 ## SPDX
