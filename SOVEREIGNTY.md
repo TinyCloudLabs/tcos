@@ -1,6 +1,6 @@
 # The TinyCloud Sovereignty Commitment
 
-## Sovereignty enables powerful technology to serve the intentions of the people using it.
+### Sovereignty enables powerful technology to serve the intentions of the people using it.
 
 TinyCloud releases its open-source software under the Apache License 2.0 because
 sovereignty requires the freedom to inspect, use, modify, and share the systems

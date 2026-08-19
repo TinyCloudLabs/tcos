@@ -1,6 +1,6 @@
 # TinyCloud Open Source License
 
-## Sovereignty enables powerful technology to serve the intentions of the people using it.
+### Sovereignty enables powerful technology to serve the intentions of the people using it.
 
 The **TinyCloud Open Source License (TCOSL)** is TinyCloud's open-source
 licensing policy: the unmodified [Apache License 2.0](LICENSE), accompanied by
